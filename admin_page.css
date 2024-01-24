@@ -2,3 +2,9 @@ span {
     font-size: 20px;
     padding-left: 10px;
 }
+
+#delete {
+    background-color: rgb(215, 212, 212);
+    color: black;
+    border-color: rgb(53, 52, 52);
+}
