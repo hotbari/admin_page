@@ -8,3 +8,7 @@ span {
     color: black;
     border-color: rgb(53, 52, 52);
 }
+
+#page-numbers {
+    display: flex;
+}
